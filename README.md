@@ -5,16 +5,16 @@ O jogador controla o cursor e utiliza ferramentas típicas de desenho como habil
 Você controla o cursor do “editor” e enfrenta inimigos dentro de uma tela que parece um software de pintura digital.  
 Cada ferramenta funciona como uma habilidade e cada habilidade diferentes efeitos:
 
-- **Pincel** – Vermelho: desenha linhas que causam dano.
-               Azul: desenha formas que caem em inimigos causando dano.
+- **Pincel** – Vermelho: desenha linhas que causam dano.  
+               Azul: desenha formas que caem em inimigos causando dano.  
                Amarelo: desenha formas que permanecem por um período de tempo prendendo inimigos dentro e refletindo seus projeteis
 
-- **Balde** - Vermelho: Causa dano rápido em uma área determinada.
-              Verde: Pinta inimigos em uma área de verde, causando dano com o tempo.
-              Roxo: Pinta inimigos em uma área de roxo, fazendo-os atacar outros inimigos.
+- **Balde** - Vermelho: Causa dano rápido em uma área determinada.  
+              Verde: Pinta inimigos em uma área de verde, causando dano com o tempo.  
+              Roxo: Pinta inimigos em uma área de roxo, fazendo-os atacar outros inimigos.  
 
-- **Seleção** - Delete: Seleciona inimigos e causa dano apertando o botão delete ou backspace do teclado.
-                Ctrl + C, Ctrl + V: Seleciona inimigos e os guarda para criar cópias deles que lutarão ao seu lado.
+- **Seleção** - Delete: Seleciona inimigos e causa dano apertando o botão delete ou backspace do teclado.  
+                Ctrl + C, Ctrl + V: Seleciona inimigos e os guarda para criar cópias deles que lutarão ao seu lado.  
                 
 
 O objetivo é sobreviver, administrar cooldowns e usar cada ferramenta de maneira estratégica.
